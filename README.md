@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ❤️ I like git githab and linux
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khodemadi&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![aliysefian](https://github-readme-stats.vercel.app/api?username=khodemadi&show_icons=true&theme=shades-of-purple)
+
