@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h3>my name is moohammadreza. 
+<h3>my alias is madi. 
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"<h3>
 
 I'm 15 years old.
