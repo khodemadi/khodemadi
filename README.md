@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about python and linux
 - 📫 How to reach me: (@mudisadeg) my id in telegram 
 - ❤️ I like git githab and linux
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akhodemadi&theme=dark&hide_border=true)](https://git.io/streak-stats)
