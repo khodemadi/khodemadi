@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning linux
 - 🤔 I’m looking for help with js
 - 💬 Ask me about python and linux
-- 📫 How to reach me: mz22843261@gmail.com 
+- 📫 How to reach me: (@mudisadeg) my id in telegram 
 - ❤️ I like git githab and linux
