@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning linux
 - 🤔 I’m looking for help with js
 - 💬 Ask me about python and linux
-- 📫 How to reach me: [Telegram](@telegram)
+- 📫 How to reach me: [Telegram](@khodemadi/telegram)
 - ❤️ I like git githab and linux
 
