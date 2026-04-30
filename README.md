@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning linux
 - 🤔 I’m looking for help with js
 - 💬 Ask me about python and linux
-- 📫 How to reach me: (@mudisadeg) my id in telegram 
+- 📫 How to reach me: [Telegram](@mudisadeg)
 - ❤️ I like git githab and linux
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khodemadi&theme=dark&hide_border=true)](https://git.io/streak-stats)
