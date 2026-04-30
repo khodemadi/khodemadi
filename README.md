@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: (@mudisadeg) my id in telegram 
 - ❤️ I like git githab and linux
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akhodemadi&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khodemadi&theme=dark&hide_border=true)](https://git.io/streak-stats)
