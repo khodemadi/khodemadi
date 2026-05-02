@@ -31,4 +31,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about python and linux
 - 📫 How to reach me: [Telegram](https://t.me/mudisadeg) [Instagram](https://instagram.com/mamad.sadeqzadeh)
 - ❤️ I like git githab and linux
-
