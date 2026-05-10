@@ -1,4 +1,4 @@
-# Hi there 👋
+## Hi there 👋
 <h3>my alias is madi. 
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"<h3>
 
