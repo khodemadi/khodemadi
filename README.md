@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning linux
 - 🤔 I’m looking for help with js
 - 💬 Ask me about python and linux
-- 📫 How to reach me: [Telegram](https://t.me/mudisadeg) [Instagram](https://instagram.com/mamad.sadeqzadeh)
+- 📫 How to reach me: [Telegram](https://t.me/Norip2) [Telegram Channel](https://t.me/Codino_dev) [Instagram](https://instagram.com/mamad.sadeqzadeh)
 - ❤️ I like git githab and linux
